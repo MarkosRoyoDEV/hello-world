@@ -1,2 +1,3 @@
 # hello-world
-Git practice
+
+This is a Github practice.
